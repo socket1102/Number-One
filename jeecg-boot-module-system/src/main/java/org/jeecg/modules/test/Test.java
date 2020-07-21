@@ -11,4 +11,7 @@ public class Test {
     public void index(){
         System.out.println("123");
     }
+    public void aaa(){
+
+    }
 }
