@@ -48,5 +48,6 @@ public class MainClient {
         ioSession.getCloseFuture().awaitUninterruptibly();//等待连接断开
         //关闭连接
         connector.dispose();
+        System.out.println();
     }
 }
