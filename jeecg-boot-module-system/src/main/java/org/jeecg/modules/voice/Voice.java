@@ -8,10 +8,10 @@ import java.util.Scanner;
 
 /**
  * @ClassName Voice
- * @Author asus
+ * @Author 王旭
  * @Date 2020/7/21 16:58
  * @Version 1.0
- * @Function <功能描述>
+ * @Function <语音播报>
  */
 public class Voice {
     public void speak(String args) {
